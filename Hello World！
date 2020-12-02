@@ -1,0 +1,7 @@
+# Chongqing-hotpot
+my everything
+# include
+main()
+{
+printf(" Hello World!/n");
+}

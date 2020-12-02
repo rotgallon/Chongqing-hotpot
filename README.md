@@ -1,2 +1,0 @@
-# Chongqing-hotpot
-my everything
